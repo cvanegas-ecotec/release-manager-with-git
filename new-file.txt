@@ -3,4 +3,6 @@ pull try
 
 push -> Succefully!!!
 new text from VS Code ;)
+Pull -> Succesfully!
+Now let's try again! (From GitHub)
 
