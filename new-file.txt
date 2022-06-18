@@ -1,2 +1,6 @@
 New file .txt
 pull try
+
+push -> Succefully!!!
+new text from VS Code ;)
+
