@@ -1,2 +1,6 @@
 New file .txt
 pull try
+
+Pull -> Succesfully!
+Now let's try again! (From GitHub)
+
